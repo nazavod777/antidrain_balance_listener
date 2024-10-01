@@ -19,7 +19,10 @@ func main() {
 		if r := recover(); r != nil {
 			fmt.Printf("Unknown Error: %s\n", r)
 			fmt.Printf("Press Enter to Exit...")
-			fmt.Scanln() // Ожидаем ввода
+			_, err := fmt.Scanln()
+			if err != nil {
+				return
+			}
 		}
 	}()
 
