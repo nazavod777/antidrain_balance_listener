@@ -1,0 +1,19 @@
+{
+  "drainedPrivateKey": "",
+  "saveFundsToAddress": "0xDEAD75fD77925C22E4f34bf44D8B190ED63d3B0A",
+  "gweiMultiplier": 1.5,
+  "rpcUrls": [
+    "https://ethereum.publicnode.com",
+    "https://polygon-bor.publicnode.com",
+    "https://bsc.publicnode.com",
+    "https://avalanche-c-chain.publicnode.com",
+    "https://fantom.publicnode.com",
+    "https://evmos-evm.publicnode.com",
+    "https://base-rpc.publicnode.com",
+    "https://optimism-rpc.publicnode.com",
+    "https://arbitrum-one-rpc.publicnode.com",
+    "https://blast-rpc.publicnode.com",
+    "https://mantle-rpc.publicnode.com",
+    "https://opbnb-rpc.publicnode.com"
+  ]
+}
