@@ -13,6 +13,4 @@
 * **gweiMultiplier** - множитель GWEI от текущего _(напр. при значении 1.5 и текущем GWEI 10 - транзакции будут отправляться с GWEI 15)_  
 * **rpcUrls** - список необходимых RPC Endpoint's
 
-# DONATE (_any evm_) - 0xDEADf12DE9A24b47Da0a43E1bA70B8972F5296F2
-# DONATE (_sol_) - 2Fw2wh1pN77ELg6sWnn5cZrTDCK5ibfnKymTuCXL8sPX
-# DONATE (_trx_) - TEAmkvFXJ6N6wzN4aS3HtgiM7XhnwRrtkW
+<a href="https://nazavod.dev/coffee/"><img src="https://github.com/nazavod777/nazavod777/raw/main/assets/coffee.svg" width="300" alt="Buy me a coffee"></a>
